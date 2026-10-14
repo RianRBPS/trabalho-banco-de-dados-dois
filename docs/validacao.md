@@ -6,4 +6,4 @@ Resultados: consulta 1 retornou duas mídias para continuar assistindo; consulta
 
 Restrições verificadas: rejeição de nota 6, reprodução que aponta simultaneamente para filme e episódio, título sem subtipo e perfil com assinante inexistente.
 
-Não houve execução do CREATE DATABASE em servidor PostgreSQL: psql não está disponível no PATH e o Docker está desligado. O passo 3 foi entregue como script executável; o banco persistente do grupo ainda precisa ser criado em seu ambiente. A validação embarcada não substitui essa execução final.
+Não houve execução do CREATE DATABASE em servidor PostgreSQL: psql não está disponível no PATH e o Docker está desligado. A etapa 4 foi entregue como script executável; o banco persistente do grupo ainda precisa ser criado em seu ambiente. A validação embarcada não substitui essa execução final.
