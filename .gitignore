@@ -1,0 +1,11 @@
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+*.log
+*.dump
+*.backup
+pgdata/
+.vscode/
+.idea/
+__pycache__/
